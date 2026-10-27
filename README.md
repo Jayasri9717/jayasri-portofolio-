@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jayasri's editable portfolio
 
 React + TypeScript + Vite portfolio with a light/dark mode toggle and emerald-teal styling.
@@ -40,3 +41,6 @@ Only add verified awards/certificates. Save the file; Vite refreshes the website
 ```powershell
 npm.cmd run build
 ```
+=======
+# jayasri-portofolio-
+>>>>>>> 88e47cda5f055191bf372117368972c7e087a105
