@@ -51,7 +51,5 @@ export const portfolioData = {
     { kind: 'PARTICIPANT', title: 'Rajalakshmi Institute Hackathon', detail: 'Participated in a hackathon at Rajalakshmi Institute of Technology', award: false },
     { kind: 'PARTICIPANT', title: 'KGISL Cyber Security Hackathon', detail: 'Participated in the KGISL Cyber Security Hackathon', award: false }
   ],
-  certificates: [
-    // Add each certificate here when ready, e.g. { title: 'Python Certificate', issuer: 'Provider', date: '2026', file: '/certificates/python.jpg' }
-  ]
+  certificates: [] as { title: string; issuer?: string; date?: string; file?: string }[]
 }
